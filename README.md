@@ -2,13 +2,14 @@
 
 A pixel-perfect clone of the Cursor AI editor landing page, built with vanilla HTML, CSS, and JavaScript using Vite as the build tool.
 
+## Live Link
+[Cursor clone](https://cursor-ui-clone-nycxkm86k-aryan-561s-projects.vercel.app/)
 ## 🚀 Project Overview
 
 This project is a faithful recreation of the Cursor landing page, showcasing modern web development practices and responsive design. Cursor is an AI-powered code editor, and this clone demonstrates the ability to replicate professional landing pages with attention to detail.
 
 ## ✨ Features
 
-- **Responsive Design**: Fully responsive layout that works across different screen sizes
 - **Modern UI/UX**: Clean and professional interface matching the original Cursor design
 - **Hero Section**: Eye-catching hero section with call-to-action buttons
 - **Company Showcase**: Display of trusted companies and professional developers

@@ -83,27 +83,6 @@ You can customize the landing page by:
 - Updating the [index.html](index.html) file for content and structure
 - Replacing images in the `public/` directory with your own assets
 
-## 🌐 Deployment
-
-To deploy this project:
-
-1. Build the project:
-   ```bash
-   npm run build
-   ```
-
-2. The optimized files will be in the `dist/` folder
-
-3. Deploy the `dist/` folder to your hosting service (Vercel, Netlify, GitHub Pages, etc.)
-
-## 📱 Browser Support
-
-This project supports all modern browsers:
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
 ## 📝 License
 
 This project is created for educational purposes.
